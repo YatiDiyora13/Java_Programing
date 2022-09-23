@@ -21,7 +21,7 @@ class MyArray<T extends Number>
 
 public class GenericExample {
     public static void main(String[] args) {
-        MyArray<> ma= new MyArray<>();
+        MyArray<Float> ma= new MyArray<>();
 
     }
 }
